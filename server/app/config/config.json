@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "shail7uy_kaiva",
+    "password": "7DOvnt2&td}Q",
+    "database": "shail7uy_kaiv",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "shail7uy_kaiva",
+    "password": "7DOvnt2&td}Q",
+    "database": "shail7uy_kaiv",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "shail7uy_kaiva",
+    "password": "7DOvnt2&td}Q",
+    "database": "shail7uy_kaiv",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
